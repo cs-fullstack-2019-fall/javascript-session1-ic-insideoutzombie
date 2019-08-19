@@ -50,14 +50,14 @@ function letter() {
   }
 }
 
+// ### Challenge 2
+// - Return the values of a, b, or c to use in the main function.
 class Values{
   constructor(a, b, c) {
     this.a = a;
     this.b = b;
     this.c = c;
   }
+  return this.a
 
 }
-
-// ### Challenge 2
-// - Return the values of a, b, or c to use in the main function.
